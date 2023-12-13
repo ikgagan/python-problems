@@ -1,0 +1,1449 @@
+SALE: 2352
+CUSTOMER: Isabella Williams
+BOOK: Python Tricks
+PAYMENT: Cash
+PRICE: 25.99
+DATE: 2023-01-01
+
+SALE: 2353
+CUSTOMER: Ava Miller
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-01-01
+
+SALE: 2354
+CUSTOMER: Sophia Brown
+BOOK: Learning Python
+PAYMENT: Cash
+PRICE: 49.99
+DATE: 2023-01-01
+
+SALE: 2355
+CUSTOMER: Ava Taylor
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-01
+
+SALE: 2356
+CUSTOMER: Liam Smith
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-01-01
+
+SALE: 2357
+CUSTOMER: Isabella Davis
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-01-01
+
+SALE: 2358
+CUSTOMER: Sophia Miller
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-01-01
+
+SALE: 2359
+CUSTOMER: Isabella Jones
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-01
+
+SALE: 2360
+CUSTOMER: Emma Brown
+BOOK: Learning Python
+PAYMENT: Credit Card
+PRICE: 49.99
+DATE: 2023-01-02
+
+SALE: 2361
+CUSTOMER: Oliver Wilson
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Cash
+PRICE: 29.99
+DATE: 2023-01-02
+
+SALE: 2362
+CUSTOMER: Oliver Miller
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Debit Card
+PRICE: 29.99
+DATE: 2023-01-02
+
+SALE: 2363
+CUSTOMER: Sophia Taylor
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Debit Card
+PRICE: 29.99
+DATE: 2023-01-04
+
+SALE: 2364
+CUSTOMER: Ava Moore
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Cash
+PRICE: 24.99
+DATE: 2023-01-04
+
+SALE: 2365
+CUSTOMER: Noah Williams
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-01-04
+
+SALE: 2366
+CUSTOMER: Olivia Johnson
+BOOK: Learning Python
+PAYMENT: cash
+PRICE: 49.99
+DATE: 2023-01-04
+
+SALE: 2367
+CUSTOMER: Olivia Smith
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-01-04
+
+SALE: 2368
+CUSTOMER: Ava Taylor
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Credit Card
+PRICE: 19.49
+DATE: 2023-01-04
+
+SALE: 2369
+CUSTOMER: Oliver Taylor
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-01-04
+
+SALE: 2370
+CUSTOMER: Mason Smith
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Creditcard
+PRICE: 34.99
+DATE: 2023-01-04
+
+SALE: 2371
+CUSTOMER: Isabella Smith
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Cash
+PRICE: 29.99
+DATE: 2023-01-04
+
+SALE: 2372
+CUSTOMER: Lucas Moore
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-01-04
+
+SALE: 2373
+CUSTOMER: Oliver Smith
+BOOK: Learning Python
+PAYMENT: Credit Card
+PRICE: 49.99
+DATE: 2023-01-04
+
+SALE: 2374
+CUSTOMER: Liam Jones
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: CreditCard
+PRICE: 29.99
+DATE: 2023-01-04
+
+SALE: 2375
+CUSTOMER: Liam Davis
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PAY PAL
+PRICE: 39.99
+DATE: 2023-01-04
+
+SALE: 2376
+CUSTOMER: Sophia Johnson
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Debit Card
+PRICE: 39.99
+DATE: 2023-01-04
+
+SALE: 2377
+CUSTOMER: Emma Jones
+BOOK: Python Crash Course
+PAYMENT: Cash
+PRICE: 29.49
+DATE: 2023-01-04
+
+SALE: 2378
+CUSTOMER: Mason Wilson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-01-04
+
+SALE: 2379
+CUSTOMER: Sophia Jones
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-01-04
+
+SALE: 2380
+CUSTOMER: Olivia Davis
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Debit Card
+PRICE: 19.49
+DATE: 2023-01-06
+
+SALE: 2381
+CUSTOMER: Oliver Miller
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: PayPal
+PRICE: 34.99
+DATE: 2023-01-06
+
+SALE: 2382
+CUSTOMER: Ava Taylor
+BOOK: Python Crash Course
+PAYMENT: Debit Card
+PRICE: 29.49
+DATE: 2023-01-06
+
+SALE: 2383
+CUSTOMER: Emma Wilson
+BOOK: Python Crash Course
+PAYMENT: PayPal
+PRICE: 29.49
+DATE: 2023-01-06
+
+SALE: 2384
+CUSTOMER: Liam Brown
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: PayPal
+PRICE: 29.99
+DATE: 2023-01-06
+
+SALE: 2385
+CUSTOMER: Liam Taylor
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Debit Card
+PRICE: 39.99
+DATE: 2023-01-07
+
+SALE: 2386
+CUSTOMER: Liam Miller
+BOOK: Python Tricks
+PAYMENT: Credit Card
+PRICE: 25.99
+DATE: 2023-01-07
+
+SALE: 2387
+CUSTOMER: Oliver Jones
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Cash
+PRICE: 24.99
+DATE: 2023-01-08
+
+SALE: 2388
+CUSTOMER: Noah Johnson
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-01-08
+
+SALE: 2389
+CUSTOMER: Emma Johnson
+BOOK: Python Tricks
+PAYMENT: Debit Card
+PRICE: 25.99
+DATE: 2023-01-08
+
+SALE: 2390
+CUSTOMER: Liam Brown
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-01-08
+
+SALE: 2391
+CUSTOMER: Noah Wilson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-09
+
+SALE: 2392
+CUSTOMER: Oliver Johnson
+BOOK: Python Crash Course
+PAYMENT: Debit Card
+PRICE: 29.49
+DATE: 2023-01-09
+
+SALE: 2393
+CUSTOMER: Emma Jones
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-09
+
+SALE: 2394
+CUSTOMER: Noah Miller
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-09
+
+SALE: 2395
+CUSTOMER: Lucas Davis
+BOOK: Learning Python
+PAYMENT: Cash
+PRICE: 49.99
+DATE: 2023-01-09
+
+SALE: 2396
+CUSTOMER: Lucas Jones
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: PayPal
+PRICE: 19.49
+DATE: 2023-01-11
+
+SALE: 2397
+CUSTOMER: Lucas Johnson
+BOOK: Learning Python
+PAYMENT: Debit Card
+PRICE: 49.99
+DATE: 2023-01-12
+
+SALE: 2398
+CUSTOMER: Emma Taylor
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Cash
+PRICE: 19.49
+DATE: 2023-01-12
+
+SALE: 2399
+CUSTOMER: Noah Wilson
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-01-12
+
+SALE: 2400
+CUSTOMER: Sophia Brown
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-01-13
+
+SALE: 2401
+CUSTOMER: Noah Davis
+BOOK: Python Crash Course
+PAYMENT: PayPal
+PRICE: 29.49
+DATE: 2023-01-13
+
+SALE: 2402
+CUSTOMER: Liam Taylor
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-13
+
+SALE: 2403
+CUSTOMER: Mason Smith
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-01-14
+
+SALE: 2404
+CUSTOMER: Noah Taylor
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-14
+
+SALE: 2405
+CUSTOMER: Ava Jones
+BOOK: Learning Python
+PAYMENT: Debit Card
+PRICE: 49.99
+DATE: 2023-01-15
+
+SALE: 2406
+CUSTOMER: Mason Brown
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: PayPal
+PRICE: 34.99
+DATE: 2023-01-15
+
+SALE: 2407
+CUSTOMER: Olivia Johnson
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: PayPal
+PRICE: 34.99
+DATE: 2023-01-15
+
+SALE: 2408
+CUSTOMER: Liam Williams
+BOOK: Python Tricks
+PAYMENT: Debit Card
+PRICE: 25.99
+DATE: 2023-01-15
+
+SALE: 2409
+CUSTOMER: Olivia Wilson
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: PayPal
+PRICE: 34.99
+DATE: 2023-01-15
+
+SALE: 2410
+CUSTOMER: Olivia Williams
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-01-15
+
+SALE: 2411
+CUSTOMER: Isabella Johnson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-01-15
+
+SALE: 2412
+CUSTOMER: Sophia Davis
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: PayPal
+PRICE: 29.99
+DATE: 2023-01-15
+
+SALE: 2413
+CUSTOMER: Ava Johnson
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-01-15
+
+SALE: 2414
+CUSTOMER: Emma Johnson
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Paypal
+PRICE: 29.99
+DATE: 2023-01-15
+
+SALE: 2415
+CUSTOMER: Emma Jones
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-01-15
+
+SALE: 2416
+CUSTOMER: Oliver Smith
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-01-15
+
+SALE: 2417
+CUSTOMER: Sophia Johnson
+BOOK: Python Crash Course
+PAYMENT: PayPal
+PRICE: 29.49
+DATE: 2023-01-16
+
+SALE: 2418
+CUSTOMER: Olivia Moore
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-01-16
+
+SALE: 2419
+CUSTOMER: Noah Moore
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-01-16
+
+SALE: 2420
+CUSTOMER: Emma Johnson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: CreditCard
+PRICE: 24.99
+DATE: 2023-01-16
+
+SALE: 2421
+CUSTOMER: Liam Williams
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-01-16
+
+SALE: 2422
+CUSTOMER: Mason Moore
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-01-17
+
+SALE: 2423
+CUSTOMER: Liam Moore
+BOOK: Python Crash Course
+PAYMENT: cash
+PRICE: 29.49
+DATE: 2023-01-17
+
+SALE: 2424
+CUSTOMER: Mason Williams
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-01-17
+
+SALE: 2425
+CUSTOMER: Noah Jones
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Credit Card
+PRICE: 19.49
+DATE: 2023-01-17
+
+SALE: 2426
+CUSTOMER: Mason Brown
+BOOK: Python Tricks
+PAYMENT: Credit Card
+PRICE: 25.99
+DATE: 2023-01-18
+
+SALE: 2427
+CUSTOMER: Isabella Miller
+BOOK: Python Crash Course
+PAYMENT: Cash
+PRICE: 29.49
+DATE: 2023-01-18
+
+SALE: 2428
+CUSTOMER: Liam Wilson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-01-18
+
+SALE: 2429
+CUSTOMER: Noah Smith
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-01-18
+
+SALE: 2430
+CUSTOMER: Olivia Wilson
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Credit Card
+PRICE: 19.49
+DATE: 2023-01-18
+
+SALE: 2431
+CUSTOMER: Liam Miller
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: PayPal
+PRICE: 29.99
+DATE: 2023-01-18
+
+SALE: 2432
+CUSTOMER: Ava Davis
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-01-18
+
+SALE: 2433
+CUSTOMER: Noah Davis
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: PayPal
+PRICE: 29.99
+DATE: 2023-01-18
+
+SALE: 2434
+CUSTOMER: Emma Smith
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Cash
+PRICE: 39.99
+DATE: 2023-01-18
+
+SALE: 2435
+CUSTOMER: Liam Williams
+BOOK: Python Crash Course
+PAYMENT: PayPal
+PRICE: 29.49
+DATE: 2023-01-18
+
+SALE: 2436
+CUSTOMER: Lucas Taylor
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-01-18
+
+SALE: 2437
+CUSTOMER: Noah Wilson
+BOOK: Python Tricks
+PAYMENT: Debit Card
+PRICE: 25.99
+DATE: 2023-01-18
+
+SALE: 2438
+CUSTOMER: Oliver Miller
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-01-19
+
+SALE: 2439
+CUSTOMER: Liam Williams
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Debit Card
+PRICE: 39.99
+DATE: 2023-01-19
+
+SALE: 2440
+CUSTOMER: Mason Wilson
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-01-19
+
+SALE: 2441
+CUSTOMER: Lucas Wilson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-01-20
+
+SALE: 2442
+CUSTOMER: Ava Miller
+BOOK: Python Tricks
+PAYMENT: PayPal
+PRICE: 25.99
+DATE: 2023-01-20
+
+SALE: 2443
+CUSTOMER: Olivia Miller
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-22
+
+SALE: 2444
+CUSTOMER: Noah Brown
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Cash
+PRICE: 34.99
+DATE: 2023-01-22
+
+SALE: 2445
+CUSTOMER: Noah Taylor
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Cash
+PRICE: 19.49
+DATE: 2023-01-22
+
+SALE: 2446
+CUSTOMER: Oliver Moore
+BOOK: Python Tricks
+PAYMENT: Debit Card
+PRICE: 25.99
+DATE: 2023-01-22
+
+SALE: 2447
+CUSTOMER: Ava Brown
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Cash
+PRICE: 19.49
+DATE: 2023-01-22
+
+SALE: 2448
+CUSTOMER: Noah Johnson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Cash
+PRICE: 24.99
+DATE: 2023-01-22
+
+SALE: 2449
+CUSTOMER: Ava Smith
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Cash
+PRICE: 39.99
+DATE: 2023-01-24
+
+SALE: 2450
+CUSTOMER: Isabella Brown
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-01-24
+
+SALE: 2451
+CUSTOMER: Liam Davis
+BOOK: Python Crash Course
+PAYMENT: Debit Card
+PRICE: 29.49
+DATE: 2023-01-25
+
+SALE: 2452
+CUSTOMER: Olivia Williams
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: PayPal
+PRICE: 34.99
+DATE: 2023-01-25
+
+SALE: 2453
+CUSTOMER: Ava Miller
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-01-25
+
+SALE: 2454
+CUSTOMER: Isabella Davis
+BOOK: Python Crash Course
+PAYMENT: Cash
+PRICE: 29.49
+DATE: 2023-01-25
+
+SALE: 2455
+CUSTOMER: Emma Smith
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: PayPal
+PRICE: 29.99
+DATE: 2023-01-25
+
+SALE: 2456
+CUSTOMER: Noah Brown
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-01-25
+
+SALE: 2457
+CUSTOMER: Liam Johnson
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Debit Card
+PRICE: 39.99
+DATE: 2023-01-25
+
+SALE: 2458
+CUSTOMER: Lucas Davis
+BOOK: Python Crash Course
+PAYMENT: Cash
+PRICE: 29.49
+DATE: 2023-01-25
+
+SALE: 2459
+CUSTOMER: Noah Brown
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-01-25
+
+SALE: 2460
+CUSTOMER: Mason Taylor
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Debit Card
+PRICE: 34.99
+DATE: 2023-01-25
+
+SALE: 2461
+CUSTOMER: Ava Brown
+BOOK: Python Crash Course
+PAYMENT: cash
+PRICE: 29.49
+DATE: 2023-01-25
+
+SALE: 2462
+CUSTOMER: Olivia Brown
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Creditcard
+PRICE: 34.99
+DATE: 2023-01-27
+
+SALE: 2463
+CUSTOMER: Ava Williams
+BOOK: Learning Python
+PAYMENT: PayPal
+PRICE: 49.99
+DATE: 2023-01-27
+
+SALE: 2464
+CUSTOMER: Liam Williams
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Creditcard
+PRICE: 34.99
+DATE: 2023-01-29
+
+SALE: 2465
+CUSTOMER: Isabella Brown
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-01-29
+
+SALE: 2466
+CUSTOMER: Oliver Davis
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-01-29
+
+SALE: 2467
+CUSTOMER: Isabella Davis
+BOOK: Learning Python
+PAYMENT: Pay-pal
+PRICE: 49.99
+DATE: 2023-01-29
+
+SALE: 2468
+CUSTOMER: Sophia Taylor
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-01-29
+
+SALE: 2469
+CUSTOMER: Isabella Smith
+BOOK: Learning Python
+PAYMENT: Cash
+PRICE: 49.99
+DATE: 2023-01-31
+
+SALE: 2470
+CUSTOMER: Mason Johnson
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-01-31
+
+SALE: 2471
+CUSTOMER: Olivia Wilson
+BOOK: Python Crash Course
+PAYMENT: PayPal
+PRICE: 29.49
+DATE: 2023-02-02
+
+SALE: 2472
+CUSTOMER: Mason Davis
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Debit Card
+PRICE: 34.99
+DATE: 2023-02-02
+
+SALE: 2473
+CUSTOMER: Sophia Smith
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-02-04
+
+SALE: 2474
+CUSTOMER: Olivia Miller
+BOOK: Python Crash Course
+PAYMENT: Debitcard
+PRICE: 29.49
+DATE: 2023-02-04
+
+SALE: 2475
+CUSTOMER: Mason Moore
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Cash
+PRICE: 39.99
+DATE: 2023-02-04
+
+SALE: 2476
+CUSTOMER: Liam Miller
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-02-04
+
+SALE: 2477
+CUSTOMER: Sophia Wilson
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-02-04
+
+SALE: 2478
+CUSTOMER: Ava Williams
+BOOK: Python Crash Course
+PAYMENT: Credit
+PRICE: 29.49
+DATE: 2023-02-04
+
+SALE: 2479
+CUSTOMER: Oliver Davis
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: PayPal
+PRICE: 34.99
+DATE: 2023-02-06
+
+SALE: 2480
+CUSTOMER: Sophia Williams
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-02-07
+
+SALE: 2481
+CUSTOMER: Noah Smith
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-02-07
+
+SALE: 2482
+CUSTOMER: Lucas Jones
+BOOK: Python Crash Course
+PAYMENT: Cash
+PRICE: 29.49
+DATE: 2023-02-08
+
+SALE: 2483
+CUSTOMER: Oliver Brown
+BOOK: Python Crash Course
+PAYMENT: Debit Card
+PRICE: 29.49
+DATE: 2023-02-08
+
+SALE: 2484
+CUSTOMER: Emma Taylor
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-02-08
+
+SALE: 2485
+CUSTOMER: Lucas Davis
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-02-08
+
+SALE: 2486
+CUSTOMER: Olivia Moore
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Creditcard
+PRICE: 19.49
+DATE: 2023-02-08
+
+SALE: 2487
+CUSTOMER: Emma Brown
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: PayPal
+PRICE: 34.99
+DATE: 2023-02-08
+
+SALE: 2488
+CUSTOMER: Noah Wilson
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: PayPal
+PRICE: 29.99
+DATE: 2023-02-09
+
+SALE: 2489
+CUSTOMER: Noah Miller
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-02-10
+
+SALE: 2490
+CUSTOMER: Oliver Taylor
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-02-11
+
+SALE: 2491
+CUSTOMER: Lucas Davis
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Cash
+PRICE: 24.99
+DATE: 2023-02-11
+
+SALE: 2492
+CUSTOMER: Lucas Williams
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: cash
+PRICE: 29.99
+DATE: 2023-02-11
+
+SALE: 2493
+CUSTOMER: Liam Miller
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-02-11
+
+SALE: 2494
+CUSTOMER: Mason Johnson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-02-11
+
+SALE: 2495
+CUSTOMER: Liam Brown
+BOOK: Automating Boring Stuff with Python
+PAYMENT: CreditCard
+PRICE: 24.99
+DATE: 2023-02-11
+
+SALE: 2496
+CUSTOMER: Liam Smith
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-02-11
+
+SALE: 2497
+CUSTOMER: Oliver Johnson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-02-11
+
+SALE: 2498
+CUSTOMER: Liam Johnson
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Credit Card
+PRICE: 19.49
+DATE: 2023-02-11
+
+SALE: 2499
+CUSTOMER: Mason Taylor
+BOOK: Python Crash Course
+PAYMENT: Debit Card
+PRICE: 29.49
+DATE: 2023-02-11
+
+SALE: 2500
+CUSTOMER: Mason Brown
+BOOK: Automating Boring Stuff with Python
+PAYMENT: paypal
+PRICE: 24.99
+DATE: 2023-02-11
+
+SALE: 2501
+CUSTOMER: Ava Smith
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Debit Card
+PRICE: 29.99
+DATE: 2023-02-11
+
+SALE: 2502
+CUSTOMER: Olivia Jones
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-02-11
+
+SALE: 2503
+CUSTOMER: Isabella Miller
+BOOK: Learning Python
+PAYMENT: Credit Card
+PRICE: 49.99
+DATE: 2023-02-11
+
+SALE: 2504
+CUSTOMER: Mason Moore
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-02-11
+
+SALE: 2505
+CUSTOMER: Mason Johnson
+BOOK: Learning Python
+PAYMENT: Credit Card
+PRICE: 49.99
+DATE: 2023-02-12
+
+SALE: 2506
+CUSTOMER: Sophia Taylor
+BOOK: Python Crash Course
+PAYMENT: Creditcard
+PRICE: 29.49
+DATE: 2023-02-12
+
+SALE: 2507
+CUSTOMER: Mason Moore
+BOOK: Python Tricks
+PAYMENT: cash
+PRICE: 25.99
+DATE: 2023-02-12
+
+SALE: 2508
+CUSTOMER: Lucas Miller
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-02-12
+
+SALE: 2509
+CUSTOMER: Mason Johnson
+BOOK: Python Crash Course
+PAYMENT: PayPal
+PRICE: 29.49
+DATE: 2023-02-12
+
+SALE: 2510
+CUSTOMER: Lucas Miller
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-02-12
+
+SALE: 2511
+CUSTOMER: Isabella Davis
+BOOK: Python Tricks
+PAYMENT: Credit Card
+PRICE: 25.99
+DATE: 2023-02-13
+
+SALE: 2512
+CUSTOMER: Oliver Taylor
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Debit Card
+PRICE: 39.99
+DATE: 2023-02-15
+
+SALE: 2513
+CUSTOMER: Oliver Williams
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Credit
+PRICE: 19.49
+DATE: 2023-02-15
+
+SALE: 2514
+CUSTOMER: Isabella Wilson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: PayPal
+PRICE: 24.99
+DATE: 2023-02-15
+
+SALE: 2515
+CUSTOMER: Liam Miller
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: PayPal
+PRICE: 39.99
+DATE: 2023-02-15
+
+SALE: 2516
+CUSTOMER: Mason Williams
+BOOK: Python Crash Course
+PAYMENT: PayPal
+PRICE: 29.49
+DATE: 2023-02-16
+
+SALE: 2517
+CUSTOMER: Noah Jones
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-02-16
+
+SALE: 2518
+CUSTOMER: Noah Moore
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-02-16
+
+SALE: 2519
+CUSTOMER: Oliver Johnson
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Cash
+PRICE: 34.99
+DATE: 2023-02-16
+
+SALE: 2520
+CUSTOMER: Isabella Brown
+BOOK: Learning Python
+PAYMENT: PayPal
+PRICE: 49.99
+DATE: 2023-02-17
+
+SALE: 2521
+CUSTOMER: Oliver Wilson
+BOOK: Learning Python
+PAYMENT: Cash
+PRICE: 49.99
+DATE: 2023-02-17
+
+SALE: 2522
+CUSTOMER: Olivia Wilson
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Debit Card
+PRICE: 39.99
+DATE: 2023-02-17
+
+SALE: 2523
+CUSTOMER: Mason Brown
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Paypal
+PRICE: 29.99
+DATE: 2023-02-17
+
+SALE: 2524
+CUSTOMER: Olivia Jones
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-02-17
+
+SALE: 2525
+CUSTOMER: Oliver Williams
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: cash
+PRICE: 39.99
+DATE: 2023-02-18
+
+SALE: 2526
+CUSTOMER: Mason Taylor
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Cash
+PRICE: 29.99
+DATE: 2023-02-18
+
+SALE: 2527
+CUSTOMER: Oliver Smith
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-02-18
+
+SALE: 2528
+CUSTOMER: Olivia Moore
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-02-18
+
+SALE: 2529
+CUSTOMER: Noah Taylor
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-02-18
+
+SALE: 2530
+CUSTOMER: Oliver Taylor
+BOOK: Learning Python
+PAYMENT: Cash
+PRICE: 49.99
+DATE: 2023-02-18
+
+SALE: 2531
+CUSTOMER: Liam Wilson
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-02-19
+
+SALE: 2532
+CUSTOMER: Oliver Miller
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-02-19
+
+SALE: 2533
+CUSTOMER: Liam Wilson
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: PayPal
+PRICE: 19.49
+DATE: 2023-02-19
+
+SALE: 2534
+CUSTOMER: Noah Davis
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-02-20
+
+SALE: 2535
+CUSTOMER: Emma Wilson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debitcard
+PRICE: 24.99
+DATE: 2023-02-20
+
+SALE: 2536
+CUSTOMER: Ava Wilson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit
+PRICE: 24.99
+DATE: 2023-02-20
+
+SALE: 2537
+CUSTOMER: Olivia Taylor
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-02-20
+
+SALE: 2538
+CUSTOMER: Noah Jones
+BOOK: Learning Python
+PAYMENT: Debit Card
+PRICE: 49.99
+DATE: 2023-02-22
+
+SALE: 2539
+CUSTOMER: Oliver Smith
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: PayPal
+PRICE: 19.49
+DATE: 2023-02-22
+
+SALE: 2540
+CUSTOMER: Ava Jones
+BOOK: Python Tricks
+PAYMENT: Credit Card
+PRICE: 25.99
+DATE: 2023-02-23
+
+SALE: 2541
+CUSTOMER: Isabella Williams
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Credit Card
+PRICE: 19.49
+DATE: 2023-02-23
+
+SALE: 2542
+CUSTOMER: Emma Miller
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Creditcard
+PRICE: 29.99
+DATE: 2023-02-23
+
+SALE: 2543
+CUSTOMER: Oliver Johnson
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Debit
+PRICE: 39.99
+DATE: 2023-02-24
+
+SALE: 2544
+CUSTOMER: Mason Williams
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Debit Card
+PRICE: 24.99
+DATE: 2023-02-24
+
+SALE: 2545
+CUSTOMER: Lucas Williams
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-02-25
+
+SALE: 2546
+CUSTOMER: Mason Miller
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Credit Card
+PRICE: 34.99
+DATE: 2023-02-25
+
+SALE: 2547
+CUSTOMER: Mason Jones
+BOOK: Fluent Python: Clear, Concise, and Effective Programming
+PAYMENT: Credit Card
+PRICE: 39.99
+DATE: 2023-02-26
+
+SALE: 2548
+CUSTOMER: Lucas Moore
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Credit Card
+PRICE: 24.99
+DATE: 2023-02-26
+
+SALE: 2549
+CUSTOMER: Ava Williams
+BOOK: Python Programming for the Absolute Beginner
+PAYMENT: Credit Card
+PRICE: 19.49
+DATE: 2023-02-26
+
+SALE: 2550
+CUSTOMER: Isabella Davis
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-02-28
+
+SALE: 2551
+CUSTOMER: Lucas Johnson
+BOOK: Python Crash Course
+PAYMENT: Debit Card
+PRICE: 29.49
+DATE: 2023-02-28
+
+SALE: 2552
+CUSTOMER: Sophia Smith
+BOOK: Learn Python 3 The Hard Way
+PAYMENT: Credit Card
+PRICE: 29.99
+DATE: 2023-02-28
+
+SALE: 2553
+CUSTOMER: Isabella Brown
+BOOK: Python Crash Course
+PAYMENT: Credit Card
+PRICE: 29.49
+DATE: 2023-02-28
+
+SALE: 2554
+CUSTOMER: Lucas Taylor
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Cash
+PRICE: 34.99
+DATE: 2023-02-28
+
+SALE: 2555
+CUSTOMER: Mason Davis
+BOOK: Python Tricks
+PAYMENT: PayPal
+PRICE: 25.99
+DATE: 2023-02-28
+
+SALE: 2556
+CUSTOMER: Lucas Brown
+BOOK: Head First Python: A Brain-Friendly Guide
+PAYMENT: Cash
+PRICE: 34.99
+DATE: 2023-02-28
+
+SALE: 2557
+CUSTOMER: Mason Miller
+BOOK: Learning Python
+PAYMENT: Credit Card
+PRICE: 49.99
+DATE: 2023-02-28
+
+SALE: 2558
+CUSTOMER: Sophia Johnson
+BOOK: Automating Boring Stuff with Python
+PAYMENT: Cash
+PRICE: 24.99
+DATE: 2023-02-28
+
